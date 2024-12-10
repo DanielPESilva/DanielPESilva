@@ -10,6 +10,8 @@ Minha paixão pela programação é algo que me faz querer ver além dos limites
 
 Atualmente, estou trabalhando em um projeto projetos pessoas e projetos da faculdade com o intuito de melhorar meus conhecimentos principalmente pela parte na qual eu mais me interreso que é o BACK-END.
 
+tenho nivel de ingles B2 atualmente finalizando o ultimo ano de inglês na escola de ingles CNA, agora buscando o certificado de Cambridge 
+
 </p>
 
 #### Main Stack:
