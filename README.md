@@ -50,7 +50,7 @@ tenho nivel de ingles B2 atualmente finalizando o ultimo ano de inglês na escol
 ## Contacts:
 
 - 📧 E-mail: DanielSilDev@proton.me
-- 💼 LinkedIn: https://www.linkedin.com/in/daniel-silva-118356339/
+- 💼 LinkedIn: https://www.linkedin.com/in/danielpesilva
 
 
 Fique à vontade para explorar meus repositórios e entrar em contato!
